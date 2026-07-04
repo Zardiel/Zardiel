@@ -20,7 +20,7 @@
 - Прохожу обучение в Skillfactory: Курс Data Scientist
 
 ### 🙌🏻 Свяжись со мной
-- [Telegram](@Zardiel)
+- [Telegram](https://t.me/Zardiel)
 
 ---
 
@@ -39,4 +39,4 @@
 - I am studying at Skillfactory: Data Scientist Course
 
 ### 🙌🏻 Contact me
-- [Telegram](@Zardiel)
+- [Telegram](https://t.me/Zardiel)
