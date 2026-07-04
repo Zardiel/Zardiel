@@ -12,7 +12,7 @@
 * Кликни [Analysis of vacancies from HH](https://github.com/Zardiel/Project-2) чтобы посмотреть мои проекты
 
 ### 💡 Основные компетенции 💡
-- Инструменты: Python, SQL
+- Инструменты: Python, SQL, Pandas/NumPy, Matplotlib
 - Skills: 
     * Усердно работаю над этим :astonished:
 
@@ -32,7 +32,8 @@
 
 ### 💡 Core competencies 💡
 - Tools: 
-  - Skills: Python, SQL
+  - Skills: Python, SQL, Pandas/NumPy, Matplotlib
+  
     * I'm working hard on this. :astonished:
 
 ### ⚡️ Currently ⚡️
